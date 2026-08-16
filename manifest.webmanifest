@@ -1,0 +1,18 @@
+{
+  "name": "英语逐句听力",
+  "short_name": "逐句听力",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f5f7",
+  "theme_color": "#111111",
+  "description": "英语逐句听力、字幕显示、AB循环、逐句循环、波形定位、翻译与发音。",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
